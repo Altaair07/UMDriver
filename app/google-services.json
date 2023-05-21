@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "972568959128",
+    "project_id": "umn-drive-1d3df",
+    "storage_bucket": "umn-drive-1d3df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972568959128:android:7b4805915c8026963e98ed",
+        "android_client_info": {
+          "package_name": "id.ac.umn.umndrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972568959128-uv8r3guv40sq757b2org68vghfvem274.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcP_R56AjNA-iIXvD5yj5YhC6-_RflT8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972568959128-uv8r3guv40sq757b2org68vghfvem274.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UMN Drive</string>
+    <string name="kode_verifikasi_sudah_dikirim">Kode Verifikasi sudah dikirim</string>
+    <string name="kirim_lagi">Kirim Lagi</string>
+    <string name="daftar_sebagai_driver">Daftar sebagai driver</string>
+    <string name="ubah_profile">Ubah profile</string>
+    <string name="umn_drive_partner_registration">UMN DRIVE\nPARTNER REGISTRATION</string>
+    <string name="welcome_to_umn_drive_self_registration">WELCOME To UMN DRIVE SELF-REGISTRATION</string>
+    <string name="motor">Motor</string>
+    <string name="mobil">Mobil</string>
+    <string name="choose_the_vehicle_you_want_to_register">CHOOSE THE VEHICLE YOU WANT TO REGISTER</string>
+    <string name="title_activity_ride">RideActivity</string>
+    <string name="_15_000_n1_3_min_n1_orang">15.000\n1-3 Min\n1 Orang</string>
+    <string name="_25_000_n3_7_min_n3_4_orang">25.000\n3-7 Min\n3-4 Orang</string>
+    <string name="order_detail">Order Detail</string>
+    <string name="title_activity_drive">DriveActivity</string>
+</resources>
